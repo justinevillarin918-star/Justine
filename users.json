@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "fullname": "hgW\/OO9kT41n0xNUZ0XQWGFbpxRMJOe3HPErOu\/saGQ=",
+            "civilstatus": "PbQDM6\/hW0vNR94t1jgG2Q==",
+            "phonenumber": "KZEwHCXlCuw2L5f0FdIfaw==",
+            "username": "Justine",
+            "email": "U9OwK4es8r0GH5CXvEnsUur4qw2Idj579mbBj9Of\/So=",
+            "password": "$2y$10$kpeYJ7hAYyOj9lA.GPyOzeOF1m.QUUXG5aha3Z9CPDq4tf6D6uOSK",
+            "otp": 948467,
+            "otp_expiration": 1774933844,
+            "role": "student"
+        },
+        {
+            "fullname": "Justine Sabandal Villarin",
+            "civilstatus": "PbQDM6\/hW0vNR94t1jgG2Q==",
+            "phonenumber": "KZEwHCXlCuw2L5f0FdIfaw==",
+            "username": "Tine",
+            "email": "U9OwK4es8r0GH5CXvEnsUur4qw2Idj579mbBj9Of\/So=",
+            "password": "$2y$10$6GSUQFxfR3a5RF0GqnEF1uqdY7hYTNhiwcNhb6U9cNwBfZ3p1tbrW"
+        },
+        {
+            "fullname": "Justine Villarin",
+            "civilstatus": "PbQDM6\/hW0vNR94t1jgG2Q==",
+            "phonenumber": "KZEwHCXlCuw2L5f0FdIfaw==",
+            "username": "kyy",
+            "email": "U9OwK4es8r0GH5CXvEnsUur4qw2Idj579mbBj9Of\/So=",
+            "password": "$2y$10$ZmArHfBWdaAaX4vdQOzJ0etAAe\/5Q5M0tmuHGYmVd4vURI2snGDhO"
+        }
+    ]
+}
